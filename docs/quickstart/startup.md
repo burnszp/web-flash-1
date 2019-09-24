@@ -12,7 +12,7 @@
  ![vue](../vuejs.gif)
 
 ## 启动flash-vue-h5
-- 启动步骤和flash-vue-admin类似，这里不再赘述
+- 启动步骤和flash-vue-admin类似，访问http://localhost:8088/mobile/#/more   这里不再赘述
  ![h5](../img/h5.jpg)
 
 so，是不是很简单!
